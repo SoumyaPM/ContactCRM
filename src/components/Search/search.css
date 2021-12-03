@@ -1,0 +1,14 @@
+.add-contact {
+  background: linear-gradient(to right, #fc6767, #ec008c);
+  color: #fff;
+  border: 1px solid #eee;
+  border-radius: 7px;
+}
+
+#search {
+  width: 250px;
+  border-radius: 21px;
+  background: #80808024;
+  border: none;
+  height: 42px;
+}
