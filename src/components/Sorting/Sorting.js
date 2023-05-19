@@ -1,5 +1,5 @@
 import { MenuItem, TextField } from "@mui/material";
-import React, { useState } from "react";
+import React from "react";
 import "./sorting.css";
 function Sorting({ onChange, sortType }) {
   return (

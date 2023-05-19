@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
-import PropTypes from "prop-types";
-import { createContact, removeContact } from "../../redux/actions/contact";
+//import PropTypes from "prop-types";
+import { removeContact } from "../../redux/actions/contact";
 import { useDispatch, useSelector } from "react-redux";
 import { RiDeleteBin5Line } from "react-icons/ri";
 

@@ -1,12 +1,12 @@
 import React, { useState } from "react";
-import PropTypes from "prop-types";
+//import PropTypes from "prop-types";
 import "./search.css";
-import Box from "@mui/material/Box";
+//import Box from "@mui/material/Box";
 import Paper from "@mui/material/Paper";
 import DialogTitle from "@mui/material/DialogTitle";
 import Dialog from "@mui/material/Dialog";
 import { TextField } from "@mui/material";
-import Button from "@mui/material/Button";
+//import Button from "@mui/material/Button";
 import { useSelector, useDispatch } from "react-redux";
 import { createContact } from "../../redux/actions/contact";
 
